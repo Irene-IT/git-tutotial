@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "outFile": "./les1-tool.js"
+    },
+    "files":[
+        "./les1-tool.ts"
+    ]
+}
